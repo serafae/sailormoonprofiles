@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Usagi's Profile</title>
+  <title>𝑼𝒔𝒂𝒈𝒊 𝑻𝒔𝒖𝒌𝒊𝒏𝒐</title>
 
   <audio autoplay loop preload="auto">
   <source src="https://file.garden/aZltaMv4vGLII4sT/BGM/SM/MOONLIGHT_DENSETSU.mp3" type="audio/mpeg">
@@ -23,18 +23,18 @@
   <link rel="dns-prefetch" href="https://static.spacehey.net">
   <link rel="dns-prefetch" href="https://cdn.spacehey.net">
 
-  <meta name="title" content="Usagi Tsukino's Profile | SpaceHey">
+  <meta name="title" content="Usagi Tsukino's Profile">
   <meta name="description" content="Hi everyone! I am Usagi Tsukino, but you may call me Serena!">
 
   <meta property="og:type" content="website">
   <meta property="og:title" content="Usagi Tsukino (Sailor Moon) ☾'s Profile | SpaceHey">
-  <meta property="og:description" content="Hi everyone! I am Usagi Tsukino, but you may call me Serena! I'm a student who enjoys eating sweets, hanging out with friends, and taking lengthy naps.">
+  <meta property="og:description" content="Hi everyone! I am Usagi Tsukino, but you may call me Serena!">
   <meta property="og:image" content="https://raw.githubusercontent.com/serafae/senshi/c40c0c55667ebd8e20df7938290ee9da7bc23bf3/assets/images/pfp/Usagi.jpg">
 
   <meta property="twitter:site" content="@spacehey">
   <meta property="twitter:card" content="summary">
   <meta property="twitter:title" content="Usagi Tsukino (Sailor Moon) ☾'s Profile | SpaceHey">
-  <meta property="twitter:description" content="Hi everyone! I am Usagi Tsukino, but you may call me Serena! I'm a student who enjoys eating sweets, hanging out with friends, and taking lengthy naps.">
+  <meta property="twitter:description" content="Hi everyone! I am Usagi Tsukino, but you may call me Serena!">
   <meta property="twitter:image" content="https://raw.githubusercontent.com/serafae/senshi/c40c0c55667ebd8e20df7938290ee9da7bc23bf3/assets/images/pfp/Usagi.jpg">
   <meta name="twitter:label1" content="Status">
 <meta name="twitter:data1" content="I finally learned how to use a computer...~">
